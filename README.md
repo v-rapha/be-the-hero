@@ -1,5 +1,5 @@
 <h1 align="center">
-  # be-the-hero
+  <img alt="Logo" title="#logo" width="300px" src=".github/logo.svg">
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
     <img alt="Made by v-rapha" src="https://img.shields.io/badge/made%20by-Vinicius%20Raphael-red" />
   </a>
     
-  <a href="https://github.com/v-rapha/ecoleta">
+  <a href="https://github.com/v-rapha/be-the-hero/blob/master/LICENCE">
     <img alt="License" src="https://img.shields.io/github/license/v-rapha/ecoleta?color=red" />
   </a>
 </p>
@@ -92,7 +92,7 @@ O <strong>Be The Hero</strong> é um projeto que visa conectar pessoas dispostas
 As aulas foram ministradas pelo mestre <a href="https://github.com/diego3g">Diego Fernandes</a> nas aulas da <strong>Next Level Week</strong>.
 
 ## Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/v-rapha/be-the-hero/blob/master/LICENCE) para mais detalhes.
 
 ---
 
