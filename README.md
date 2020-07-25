@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
   <img alt="Logo" title="#logo" width="300px" src=".github/logo.svg">
-</h1>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinicius-raphael/">
@@ -35,8 +35,7 @@ O <strong>Be The Hero</strong> é um projeto que visa conectar pessoas dispostas
 ```
 
 ### 2º Instale as dependências usando NPM ou YARN e execute a aplicação:
-
-- Iniciando o back-end
+- ### Iniciando o back-end
 ```sh
   # Pelo prompt de comando entre na pasta backend
   $ cd be-the-hero/backend
@@ -89,7 +88,7 @@ O <strong>Be The Hero</strong> é um projeto que visa conectar pessoas dispostas
 - Faça um push para sua branch: `git push origin my-feature`
 
 ## Quem ministrou
-As aulas foram ministradas pelo mestre <a href="https://github.com/diego3g">Diego Fernandes</a> nas aulas da <strong>Next Level Week</strong>.
+As aulas foram ministradas pelo mestre <a href="https://github.com/diego3g">Diego Fernandes</a> nas aulas da <strong>Omnistack 11</strong>.
 
 ## Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/v-rapha/be-the-hero/blob/master/LICENCE) para mais detalhes.
