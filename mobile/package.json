@@ -17,7 +17,7 @@
     "expo-mail-composer": "~10.2.2",
     "intl": "^1.2.5",
     "react": "~16.14.0",
-    "react-dom": "~16.13.0",
+    "react-dom": "~16.14.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
     "react-native-gesture-handler": "~1.10.3",
     "react-native-reanimated": "~2.2.0",
